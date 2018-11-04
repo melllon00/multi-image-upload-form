@@ -1,8 +1,6 @@
 # multiImageUploadForm
 multi Image Upload Form using php , javascript , html , css 
 
-**********
-
 ### 기본 설명
 원하는 위치에 아래의 form을 붙여넣고 id를 원하는 형식으로 변경한다
 
